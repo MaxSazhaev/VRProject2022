@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Max/Desktop/VRProject2022/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Max/Desktop/VRProject2022/Content/AbandonedFactory/Demo/Maps/Warehouse_02_night/Main_Warehouse_02.umap",
+				"C:/Users/Max/Desktop/VRProject2022/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
